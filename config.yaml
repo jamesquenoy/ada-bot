@@ -7,7 +7,7 @@ discord:
 ironrealms:
   apiurl: "https://api.achaea.com"
 
-database:
-  connection: "user=carsqn password=|RGqfx5rvAS^+[J dbname=ada-bot sslmode=disable"
+#database:
+ # connection: "user=gregent password=password dbname=ada-bot sslmode=disable"
 
 settingsfile: settings.yaml
